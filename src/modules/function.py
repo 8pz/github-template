@@ -1,8 +1,4 @@
-# setup
-
 from main import logger
-
-# function
 
 import traceback
 
