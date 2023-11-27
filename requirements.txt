@@ -1,1 +1,1 @@
-python -m  pipreqs.pipreqs --encoding utf-8
+python -m  pipreqs.pipreqs --force
